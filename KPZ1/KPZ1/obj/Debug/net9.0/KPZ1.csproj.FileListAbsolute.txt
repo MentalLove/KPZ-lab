@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\KPZ1\KPZ1\bin\Debug\net9.0\KPZ1.exe
+C:\Users\Admin\source\repos\KPZ1\KPZ1\bin\Debug\net9.0\KPZ1.deps.json
+C:\Users\Admin\source\repos\KPZ1\KPZ1\bin\Debug\net9.0\KPZ1.runtimeconfig.json
+C:\Users\Admin\source\repos\KPZ1\KPZ1\bin\Debug\net9.0\KPZ1.dll
+C:\Users\Admin\source\repos\KPZ1\KPZ1\bin\Debug\net9.0\KPZ1.pdb
+C:\Users\Admin\source\repos\KPZ1\KPZ1\obj\Debug\net9.0\KPZ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\KPZ1\KPZ1\obj\Debug\net9.0\KPZ1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\KPZ1\KPZ1\obj\Debug\net9.0\KPZ1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\KPZ1\KPZ1\obj\Debug\net9.0\KPZ1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\KPZ1\KPZ1\obj\Debug\net9.0\KPZ1.dll
+C:\Users\Admin\source\repos\KPZ1\KPZ1\obj\Debug\net9.0\refint\KPZ1.dll
+C:\Users\Admin\source\repos\KPZ1\KPZ1\obj\Debug\net9.0\KPZ1.pdb
+C:\Users\Admin\source\repos\KPZ1\KPZ1\obj\Debug\net9.0\KPZ1.genruntimeconfig.cache
+C:\Users\Admin\source\repos\KPZ1\KPZ1\obj\Debug\net9.0\ref\KPZ1.dll

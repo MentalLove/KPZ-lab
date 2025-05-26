@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\KPZ3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70C911EF-6D12-40CB-B025-B253775AC452}|task6\\task6.csproj|c:\\users\\admin\\source\\repos\\kpz3\\task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C911EF-6D12-40CB-B025-B253775AC452}|task6\\task6.csproj|solutionrelative:task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292A99C4-C135-49BF-8ACB-5DED3A228F35}|task5\\task5.csproj|c:\\users\\admin\\source\\repos\\kpz3\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292A99C4-C135-49BF-8ACB-5DED3A228F35}|task5\\task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D1CB1C-BAA2-4CF0-8170-6780BA7F1B35}|task4\\task4.csproj|c:\\users\\admin\\source\\repos\\kpz3\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D1CB1C-BAA2-4CF0-8170-6780BA7F1B35}|task4\\task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE16789-EDE0-4273-BD6B-712B1214A287}|task3\\task3.csproj|c:\\users\\admin\\source\\repos\\kpz3\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE16789-EDE0-4273-BD6B-712B1214A287}|task3\\task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542F78D-160B-41D4-A30D-D5191741FE47}|task2\\task2.csproj|c:\\users\\admin\\source\\repos\\kpz3\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B542F78D-160B-41D4-A30D-D5191741FE47}|task2\\task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2785758E-50DB-46AB-BCEF-2FC04E91FAD1}|KPZ3\\KPZ3.csproj|c:\\users\\admin\\source\\repos\\kpz3\\kpz3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2785758E-50DB-46AB-BCEF-2FC04E91FAD1}|KPZ3\\KPZ3.csproj|solutionrelative:kpz3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KPZ3\\task6\\Program.cs",
+              "RelativeDocumentMoniker": "task6\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KPZ3\\task6\\Program.cs",
+              "RelativeToolTip": "task6\\Program.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAAAMUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:58:58.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KPZ3\\task5\\Program.cs",
+              "RelativeDocumentMoniker": "task5\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KPZ3\\task5\\Program.cs",
+              "RelativeToolTip": "task5\\Program.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:58:04.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KPZ3\\task4\\Program.cs",
+              "RelativeDocumentMoniker": "task4\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KPZ3\\task4\\Program.cs",
+              "RelativeToolTip": "task4\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAuwJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:55:27.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KPZ3\\task3\\Program.cs",
+              "RelativeDocumentMoniker": "task3\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KPZ3\\task3\\Program.cs",
+              "RelativeToolTip": "task3\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:54:09.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KPZ3\\task2\\Program.cs",
+              "RelativeDocumentMoniker": "task2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KPZ3\\task2\\Program.cs",
+              "RelativeToolTip": "task2\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:51:26.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\KPZ3\\KPZ3\\Program.cs",
+              "RelativeDocumentMoniker": "KPZ3\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\KPZ3\\KPZ3\\Program.cs",
+              "RelativeToolTip": "KPZ3\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAqwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:47:03.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
